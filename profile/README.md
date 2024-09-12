@@ -1,5 +1,4 @@
-
-![cover2](https://user-images.githubusercontent.com/9281785/200859347-1b06c977-42e5-478a-9c46-08420456a829.png)
+![Banner LinkedIn](https://github.com/user-attachments/assets/734a4463-851d-4808-9628-b9e46cb034cd)
 
 <p><em> 👀 We live business, design and technology. We breathe innovation and love the challenge.</br>👀 We are driven by the visions of our clients and the needs of today's - and tomorrow's users. </br>🌱 We are currently developing awesome digital experinces within Cluj-Napoca Romania.
 </em></p>
